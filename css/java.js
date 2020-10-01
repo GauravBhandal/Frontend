@@ -1,3 +1,4 @@
+// script file for this project
 <script>
 var slideIndex = 0;
 showSlides();
